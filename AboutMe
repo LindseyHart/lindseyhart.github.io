@@ -1,0 +1,22 @@
+<html>
+  <body>
+    <h1> Fun Facts About Me </h1>
+    <ul>
+      <li> I have been an elementary school teacher for 8 years. </li>
+      <li> I recently decided to take my career in a different direction. </li>
+      <li> I really enjoy learning new things. In the last few years I have learned how to crochet, <br>
+      and I have started to learn how to play the piano. I am also working on learning spanish. At <br>
+      this time I can only speak a little.</li>
+      <li> I love being outdoors whether it is a local adventure or a camping trip.</li>
+      <li> I can cook many different dishes and desserts.</li>
+      <li> Reading and solving puzzles are some of my favorite things to do. </li>
+    </ul>
+    <br>
+    <h1> Current Life Goals </h1>
+    <ol>
+      <li> Learn coding to become a software developer.</li>
+      <li> Find a well paying, flexible job near me.</li>
+      <li> Survive the first year being a new mother.</li>
+    </ol>
+  </body>
+</html>
