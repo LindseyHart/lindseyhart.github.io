@@ -1,5 +1,15 @@
 <html>
   <body>
-    <h1> Coming Soon </h1>
+    <h1> Coding Projects </h1>
+    <p>Here are a few of the coding projects I have worked on. I will continue to add to this as I gain more experience.</p>
+    <br>
+   <p>
+      <a href="lindseyhart.github.io/PacMan/>PacMen Factory</a><br>
+      The above link will bring you to the read me file of my pacman project.<br>
+      <a href="lindseyhart.github.io/eye-exercise/>Eye Exercise</a><br>
+      The above link will bring you to the read me file of my eye exercise project.<br>
+      <a href="lindseyhart.github.io/BusTracker/>Real Time Bus Tracker</a><br>
+      The above link will bring you to the read me file of my real time bus tracking project.<br>
+  </p>
    </body>
 </html>
