@@ -3,6 +3,8 @@ body {
   width: 70%;
   padding: 10px;
   background: #14495e;
+  display: flex;
+  align-items: center;
 }
 
 h1, h2 {
