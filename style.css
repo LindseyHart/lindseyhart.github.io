@@ -1,0 +1,10 @@
+body {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: light-grey;
+}
+
+h1 {
+  background-color: dark-grey;
+}
