@@ -2,10 +2,15 @@ body {
   margin: auto;
   width: 70%;
   padding: 10px;
-  background-color: light-grey;
 }
 
 h1, h2 {
-  background-color: dark-grey;
+  border: 2px solid drak-grey;
+  border-radius: 5px;
 }
 
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
